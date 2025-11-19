@@ -1,4 +1,4 @@
-package com.android.wf_companion_app;
+package com.bazar404.midnight_wf;
 
 import android.content.Context;
 
